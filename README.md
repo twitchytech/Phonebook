@@ -24,13 +24,9 @@ The Phonebook Application is a terminal-based contact management system that all
 
    ```bash
    git clone https://github.com/msio808/Phonebook.git
+   cd phonebook
    ```
-
-   ```bash
-   cd Phonebook
-   ```
-
-2. Build Program **`GCC`**:
+2. Build using **`GCC`**:
 
    ```bash
    make
@@ -45,6 +41,7 @@ The Phonebook Application is a terminal-based contact management system that all
    ```bash
    ./build/phonebook
    ```
+
 
 ## Usage
 

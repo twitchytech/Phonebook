@@ -1,5 +1,5 @@
-#ifndef PHONEBOOK_H
-#define PHONEBOOK_H
+#ifndef APP_H
+#define APP_H
 
 #include <io.h>
 #include <ctype.h>
@@ -75,4 +75,4 @@ void print_all(pdb_t *, size_t);
 void insert_contact(contact_t *, FILE *);
 void add_new_row(pdb_t [], contact_t *, size_t);
 
-#endif // !PHONEBOOK_H
+#endif // !APP_H
